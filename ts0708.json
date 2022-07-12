@@ -127,7 +127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://TVBox/MaooXB/555dy.json"
+      "ext": "https://longqi293.github.io/MaooXB/555dy.json"
     },
     {
       "key": "剧白白",
@@ -137,7 +137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://TVBox/MaooXP/jubaibai.json"
+      "ext": "https://longqi293.github.io/MaooXP/jubaibai.json"
     },
     {
       "key": "Kuaikan",
