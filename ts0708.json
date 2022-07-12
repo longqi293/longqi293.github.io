@@ -7,7 +7,7 @@
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L3RzLnR4dA=="]}]}],
 
-"spider":"clan://TVBox/ts0708.jar",
+"spider":"https://longqi293.github.io/ts0708.jar",
  
 "sites": [
     {
